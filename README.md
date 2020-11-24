@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **gatsby**
 
-- 👨‍💻 All of my projects are available at [http://siemensubbaiah.ml/](http://siemensubbaiah.ml/)
+- 👨‍💻 All of my projects are available at [https://www.siemensubbaiah.ml/](http://siemensubbaiah.ml/)
 
 - 📝 I sometimes write articles on [https://medium.com/@siemensubbaiah1](https://medium.com/@siemensubbaiah1)
 
