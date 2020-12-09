@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **gatsby**
 
-- 👨‍💻 All of my projects are available at [https://www.siemensubbaiah.ml/](http://siemensubbaiah.ml/)
+- 👨‍💻 All of my projects are available at [https://www.siemensubbaiah.ml](http://siemensubbaiah.ml)
 
 - 📝 I sometimes write articles on [https://medium.com/@siemensubbaiah1](https://medium.com/@siemensubbaiah1)
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/siemensubbaiah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/siemensubbaiah" height="30" width="40" /></a>
-<a href="https://twitter.com/siemen_subbaiah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="siemen_subbaiah" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/siemen_subbaiah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/siemen_subbaiah/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/siemensubbaiah1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/siemensubbaiah1" height="30" width="40" /></a>
+<a href="https://dev.to/siemensubbaiah" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="https://dev.to/siemensubbaiah" height="30" width="40" /></a>
+<a href="https://twitter.com/siemen_subbaiah" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="siemen_subbaiah" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/siemen_subbaiah/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="https://www.instagram.com/siemen_subbaiah/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/siemensubbaiah1" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="https://www.youtube.com/siemensubbaiah1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
