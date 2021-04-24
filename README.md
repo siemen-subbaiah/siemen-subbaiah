@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/siemensubbaiah" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="https://dev.to/siemensubbaiah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siemen-subbaiah/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" alt="https://www.linkedin.com/in/siemen-subbaiah/" height="30" width="40" /></a>
 <a href="https://twitter.com/siemen_subbaiah" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="siemen_subbaiah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/siemen_subbaiah/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="https://www.instagram.com/siemen_subbaiah/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siemen-subbaiah/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/145/145807.svg" alt="https://www.linkedin.com/in/siemen-subbaiah/" height="30" width="40" /></a>
+<a href="https://dev.to/siemensubbaiah" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg" alt="https://dev.to/siemensubbaiah" height="30" width="40" /></a>
 </p>
 
 
