@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://siemensubbaiah.ml](https://siemensubbaiah.ml)
+- 👨‍💻 All of my projects are available at [https://siemensubbaiah.ml](https://siemensubbaiah.cf)
 
 - 📝 I sometimes write articles on [https://medium.com/@siemensubbaiah1](https://medium.com/@siemensubbaiah1)
 
