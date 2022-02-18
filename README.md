@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/siemen_subbaiah" target="blank"><img src="https://img.shields.io/twitter/follow/siemen_subbaiah?logo=twitter&style=for-the-badge" alt="siemen_subbaiah" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://siemensubbaiah.ml](https://siemensubbaiah.cf)
 
