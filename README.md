@@ -9,7 +9,7 @@
 
 - 📝 I sometimes write articles on [https://blog.siemensubbaiah.cf](https://blog.siemensubbaiah.cf)
 
-- 💬 Ask me about **html,css,js,react**
+- 💬 Ask me about **html, css, js, react, next.js**
 
 - 📫 How to reach me **siemensubbaiah1@gmail.com**
 
