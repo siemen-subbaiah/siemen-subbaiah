@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siemensubbaiah.cf](https://siemensubbaiah.cf)
 
-- 📝 I sometimes write articles on [https://medium.com/@siemensubbaiah1](https://medium.com/@siemensubbaiah1)
+- 📝 I sometimes write articles on [https://blog.siemensubbaiah.cf](https://blog.siemensubbaiah.cf)
 
 - 💬 Ask me about **html,css,js,react**
 
