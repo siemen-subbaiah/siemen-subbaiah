@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm siemen subbaiah</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+
+![github-header-image (1)](https://user-images.githubusercontent.com/62604902/158016731-c83d9d55-46d3-4984-8ef3-2faa06b63447.png)
 
 <p align="left"> <a href="https://twitter.com/siemen_subbaiah" target="blank"><img src="https://img.shields.io/twitter/follow/siemen_subbaiah?logo=twitter&style=for-the-badge" alt="siemen_subbaiah" /></a> </p>
 
