@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://siemensubbaiah.cf](https://siemensubbaiah.cf)
+- 👨‍💻 All of my projects are available at [https://siemensubbaiah.tech](https://siemensubbaiah.tech)
 
-- 📝 I sometimes write articles on [https://blog.siemensubbaiah.cf](https://blog.siemensubbaiah.cf)
+- 📝 I sometimes write articles on [https://blog.siemensubbaiah.tech](https://blog.siemensubbaiah.tech)
 
 - 💬 Ask me about **html, css, js, react, next.js**
 
