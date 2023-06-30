@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [https://siemensubbaiah.tech](https://siemensubbaiah.tech)
+- 👨‍💻 All of my projects are available at [https://siemensubbaiah.netlify.app](https://siemensubbaiah.netlify.app)
 
 - 📝 I sometimes write articles on [https://blog.siemensubbaiah.tech](https://blog.siemensubbaiah.tech)
 
