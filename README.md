@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siemensubbaiah.netlify.app](https://siemensubbaiah.netlify.app)
 
-- 📝 I sometimes write articles on [https://blog.siemensubbaiah.tech](https://blog.siemensubbaiah.tech)
+- 📝 I sometimes write articles on [https://siemensubbaiah.hashnode.dev](https://siemensubbaiah.hashnode.dev)
 
 - 💬 Ask me about **html, css, js, react, next.js**
 
