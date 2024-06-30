@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://siemensubbaiah.netlify.app](https://siemensubbaiah.netlify.app)
+- 👨‍💻 All of my projects are available at [https://siemensubbaiah.vercel.app](https://siemensubbaiah.vercel.app)
 
 - 📝 I sometimes write articles on [https://siemensubbaiah.hashnode.dev](https://siemensubbaiah.hashnode.dev)
 
